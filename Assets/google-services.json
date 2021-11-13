@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "540925040582",
+    "project_id": "dbounce-46305506",
+    "storage_bucket": "dbounce-46305506.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540925040582:android:4b544ee2653a7b4f3704c7",
+        "android_client_info": {
+          "package_name": "com.jyh.Dbounce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540925040582-tkffk6h8i1if1m2iukhmfrcc4onvbuj0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2EZX-hMoCOdwJuRM5rbnOjmhi3BqRqjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540925040582-tkffk6h8i1if1m2iukhmfrcc4onvbuj0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
